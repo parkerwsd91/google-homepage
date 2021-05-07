@@ -211,3 +211,78 @@ button:hover {
 button:hover,.input-border:hover {
     box-shadow: 0 3px 3px rgba(0,0,0,0.1);
 }
+
+.footer-container {
+    display: flex;
+    background-color: #f2f2f2;
+    border-top: rgba(130, 130, 192, 0.13);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.advertising {
+    display: flex;
+    align-self: flex-end;
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-size: 14px;
+    margin-left: 22px;
+    margin-bottom: 12px;
+}
+
+.business {
+    display: flex;
+    align-self: flex-end;
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-size: 14px;
+    margin-left: 27px;
+    margin-bottom: 12px;
+}
+
+.how-search-works {
+    display: flex;
+    align-self: flex-end;
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-size: 14px;
+    margin-left: 27px;
+    margin-bottom: 12px;
+}
+
+.privacy {
+    display: flex;
+    align-self: flex-end;
+    margin-left: auto;
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-size: 14px;
+    margin-right: 27px;
+    margin-bottom: 12px;
+}
+
+.terms {
+    display: flex;
+    align-self: flex-end;
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-size: 14px;
+    margin-right: 27px;
+    margin-bottom: 12px;
+}
+
+.settings {
+    display: flex;
+    align-self: flex-end;
+    text-decoration: none;
+    color: black;
+    opacity: 0.6;
+    font-size: 14px;
+    margin-right: 24px;
+    margin-bottom: 12px;
+}
