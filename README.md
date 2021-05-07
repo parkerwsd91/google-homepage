@@ -1,1 +1,1 @@
-First project - replicating Google homepage to practice html and CSS
+First project - replicating Google homepage to practice html and css
